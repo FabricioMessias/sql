@@ -2,7 +2,7 @@
 
  
 
-- Consulta simples
+- Consulta Simples
 
 SELECT * FROM CELULAR
 
@@ -24,7 +24,7 @@ WHERE modelo = 'S4'
 
  
 
-- BETWEEN (ENTRE)
+- BETWEEN (Entre)
 
 SELECT * FROM CELULAR
 
@@ -36,7 +36,7 @@ WHERE cod_celular >= 4 AND cod_celular >= 6
 
  
 
-- IN (LISTA)
+- IN (Lista)
 
 SELECT * FROM CELULAR
 
